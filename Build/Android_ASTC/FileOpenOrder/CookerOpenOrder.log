@@ -473,5 +473,7 @@
 "../../../../../../Users/ninnd/Documents/Unreal Projects/claseVR/Content/ARContent/BP_Pawn.uasset" 472
 "../../../../../../Users/ninnd/Documents/Unreal Projects/claseVR/Content/ARContent/BP_PlayerController.uasset" 473
 "../../../../../../Users/ninnd/Documents/Unreal Projects/claseVR/Content/ARContent/BP_GameMode.uasset" 474
-"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 475
-"../../../../../../Users/ninnd/Documents/Unreal Projects/claseVR/Content/HandheldARBP/Maps/HandheldARBlankMap.umap" 476
+"../../../../../../Users/ninnd/Documents/Unreal Projects/claseVR/Content/ARContent/Data/augmentedimageDatabase.uasset" 475
+"../../../../../../Users/ninnd/Documents/Unreal Projects/claseVR/Content/ARContent/Data/augmentedConfig.uasset" 476
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 477
+"../../../../../../Users/ninnd/Documents/Unreal Projects/claseVR/Content/HandheldARBP/Maps/HandheldARBlankMap.umap" 478
